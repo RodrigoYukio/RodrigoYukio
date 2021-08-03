@@ -1,4 +1,4 @@
-<h2>✌️ Hi there, I'm Rodrigo Yukio</h2>
+<h2>✌️ Hi there, I'm Rodrigo</h2>
 <h5>💻Studying: Computer Science at UENP; </h5>
 <h5>🔭Currently Scholarship: Fundação Araucária; </h5>
 <h5>🎒Main Tools: Visual Studio Code and NetBeans; </h5>
