@@ -6,8 +6,8 @@
 ##
    <div>
       <a href="https://github.com/RodrigoYukio">
-      <img height="169em" src="https://github-readme-stats.vercel.app/api?username=rodrigoyukio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoyukio&layout=compact&langs_count=7&theme=dark"/>
+      <img height="168em" src="https://github-readme-stats.vercel.app/api?username=rodrigoyukio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoyukio&layout=compact&langs_count=7&theme=dark"/>
    </div>
    <div style="display: inline_block"><br>
          <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -19,7 +19,7 @@
  ##
  
  <div>
-    <a href="https://instagram.com/rafaballerini" target="_blank">
+    <a href="https://www.instagram.com/rys.rodrigo/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/rafaballerini" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
