@@ -8,7 +8,6 @@
       <a href="https://github.com/RodrigoYukio">
       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigoyukio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoyukio&layout=compact&langs_count=7&theme=dark"/>
-      <img align="right" alt="Rodrigo-gif" src="https://i.imgur.com/nQiIabr.gif">
    </div>
    <div style="display: inline_block"><br>
          <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
