@@ -1,4 +1,4 @@
-
+<img align="right" width = "100px" alt="Rodrigo-gif" src="https://i.imgur.com/nQiIabr.gif">
 <h2>✌️ Hi there, I'm Rodrigo</h2>
 <h5>💻Studying: Computer Science at UENP; </h5>
 <h5>🔭Currently Scholarship: Fundação Araucária; </h5>
@@ -17,7 +17,6 @@
          <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
          <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-         <img align="right" width = "100px" alt="Rodrigo-gif" src="https://i.imgur.com/nQiIabr.gif">
      </div>
  
  ##
