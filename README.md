@@ -1,4 +1,4 @@
-<img align="right" width = "100px" alt="Rodrigo-gif" src="https://i.imgur.com/nQiIabr.gif">
+<img align="right" width = "150px" alt="Rodrigo-gif" src="https://i.imgur.com/nQiIabr.gif">
 <h2>✌️ Hi there, I'm Rodrigo</h2>
 <h5>💻Studying: Computer Science at UENP; </h5>
 <h5>🔭Currently Scholarship: Fundação Araucária; </h5>
